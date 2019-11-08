@@ -1,3 +1,8 @@
+/* 
+    testing with fake mock service 
+    https://codecraft.tv/courses/angular/unit-testing/mocks-and-spies/#_mock_by_using_a_real_instance_with_spy
+*/
+
 import { AuthService } from './auth.service';
 import { LoginComponent } from "./login.component";
 
